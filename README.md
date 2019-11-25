@@ -5,7 +5,7 @@ Impl php client for lmstfy(Let Me Schedule Task For You)
 ## Install 
 
 ```
-> git clone git@gitlab.meitu.com:platform/php-lmstfy-client.git
+> git clone https://github.com/meitu/php-lmstfy-client.git
 > cd php-lmstfy-client 
 > composer install
 ```
